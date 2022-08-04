@@ -1,0 +1,34 @@
+.light{
+    font-weight: 400;
+  }
+  .cunt{
+    height: 700px;
+     width: 1000px;
+  }
+  @media (max-width: 640px){
+    
+    .cunt{
+      height: 800px;
+      width: 640px;
+    }
+    .cunt1{
+      height: 200px;
+    }
+    .cunt2{
+       width: 95%;
+    }
+  }
+  @media (min-width:640px){
+    .cunt2{
+      height: 96%;
+       width: 52%;
+    }
+  }
+  .fb{
+    font-size: 2rem;
+    font-weight: 600;
+  }
+  .fb2{
+    font-size: 1.3rem;
+    font-weight: 500;
+  }
