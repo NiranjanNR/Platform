@@ -10,4 +10,5 @@ UI for texting page:
 
 ![Screenshot 2022-08-04 at 10 51 11 PM](https://user-images.githubusercontent.com/84635960/182912721-99370e1a-e283-497d-b16c-70c28e633474.png)
 
+This application is not connected or backed up by a database as it is only a try at making a UI. Connecting a database and making this to legit app will be done later.
 Hopefully more updates will be made to this page :'(
